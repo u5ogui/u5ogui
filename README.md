@@ -5,7 +5,7 @@
   <br><br>
 
   <p>
-    <a href="https://rentry.co">rentry</a>
+    <a href="https://rentry.co/libraryofruina">rentry</a>
   </p>
 
   <br>
